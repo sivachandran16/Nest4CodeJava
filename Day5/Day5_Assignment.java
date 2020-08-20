@@ -16,7 +16,7 @@ public class Day5_Assignment {
 
         }
 		
-		for (  i = 0; i <inp_num; i++) {
+	for (  i = 0; i <inp_num; i++) {
 
             for ( j = i; j <inp_num-1 ; j++) {
                 String star = "*";
